@@ -1,0 +1,23 @@
+{
+  "name": "nandkishor-yadav",
+  "version": "1.0.0",
+  "description": "<!-- **nandkishor-yadav/nandkishor-yadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nandkishor-yadav/nandkishor-yadav.git"
+  },
+  "author": "",
+  "license": "ISC",
+  
+  "homepage": "https://github.com/nandkishor-yadav/nandkishor-yadav#readme",
+  "dependencies": {
+    "markdown-it": "^11.0.0",
+    "prettier": "^2.0.5",
+    "rss-parser": "^3.8.0"
+  }
+}

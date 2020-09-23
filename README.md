@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.com/nandkishor-yadav/nandkishor-yadav.svg)](http://hits.dwyl.com/nandkishor-yadav/nandkishor-yadav)
+[![HitCount](http://hits.dwyl.com/nandkishor196@gmailcom/nandkishor-yadav.svg)](http://hits.dwyl.com/nandkishor196@gmailcom/nandkishor-yadav)
 
 ### Hi there 👋 I'm Nandkishor. I am a Software Engineer based in Ireland.
 

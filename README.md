@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/nandkishor-yadav/nandkishor-yadav.svg)](http://hits.dwyl.com/nandkishor-yadav/nandkishor-yadav)
+
 ### Hi there 👋 I'm Nandkishor. I am a Software Engineer based in Ireland.
 
 <!--
@@ -23,4 +25,4 @@ Here are some ideas to get you started:
 <img src="https://github.com/nandkishor-yadav/nandkishor-yadav/blob/master/tweet.png" width="600">
 <p><a href="https://www.twitter.com/nandkishor_ydv">Follow me on Twitter</a> | <a href="https://www.linkedin.com/in/nandkishor-yadav">Connect me on LinkedIn</a> | </p>
 
-[![HitCount](http://hits.dwyl.com/nandkishor-yadav/nandkishor-yadav.svg)](http://hits.dwyl.com/nandkishor-yadav/nandkishor-yadav)
+

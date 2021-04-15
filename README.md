@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Nandkishor. I am a Software Engineer based in Ireland.
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Nandkishor. I am a Software Engineer based in Ireland.
 
 Software engineer with 4+ years of experience in Web Application development with a Master's in cloud computing. Vast experience in ASP.NET Core, .NET Framework 4.6/4.5, C#, ADO.NET, Entity Framework/Core, LINQ, ASP.NET, AJAX, MVC, Web API, Bootstrap, jQuery, JavaScript, HTML.
 

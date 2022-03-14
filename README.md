@@ -16,8 +16,6 @@ Experience in cloud technology – Microsoft Azure. Experience in a CI/CD enviro
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandkishor-yadav&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<h1>Last Tweet</h1>
-<img src="https://github.com/nandkishor-yadav/nandkishor-yadav/blob/master/tweet.png" width="600">
 <p><a href="https://www.twitter.com/nandkishor_ydv">Follow me on Twitter</a> | <a href="https://www.linkedin.com/in/nandkishor-yadav">Connect me on LinkedIn</a> | </p>
 
 
